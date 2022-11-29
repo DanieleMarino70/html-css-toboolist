@@ -130,85 +130,38 @@ ul li{
     display: inline-block;
 }
 
-.editorial{
+.button{
     display: inline-block;
     height: 25px;
     width: 75px;
     line-height: 25px;
     text-align: center;
-    background-color: #47ADF1;
     border-radius: 10px;
     vertical-align: middle;
     color: white;
     font-size: 14px;
 }
 
-
+.editorial{
+    background-color: #47ADF1;
+} 
 .q1-goals{
-    display: inline-block;
-    height: 25px;
-    width: 75px;
-    line-height: 25px;
-    text-align: center;
     background-color: #9b71e3;
-    border-radius: 10px;
-    vertical-align: middle;
-    color: white;
-    font-size: 14px;
 }
 
 .recruting{
-    display: inline-block;
-    height: 25px;
-    width: 75px;
-    line-height: 25px;
-    text-align: center;
     background-color: #64c0a9;
-    border-radius: 10px;
-    vertical-align: middle;
-    color: white;
-    font-size: 14px;
 }
 
 
 .mobile{
-    display: inline-block;
-    height: 25px;
-    width: 75px;
-    line-height: 25px;
-    text-align: center;
     background-color: #f09c32;
-    border-radius: 10px;
-    vertical-align: middle;
-    color: white;
-    font-size: 14px;
-
 }
 
 .website{
-    display: inline-block;
-    height: 25px;
-    width: 75px;
-    line-height: 25px;
-    text-align: center;
     background-color: #d863a1;
-    border-radius: 10px;
-    vertical-align: middle;
-    color: white;
-    font-size: 14px;
-
 }
 
 .sales{
-    display: inline-block;
-    height: 25px;
-    width: 75px;
-    line-height: 25px;
-    text-align: center;
     background-color: #afc825;
-    border-radius: 10px;
-    vertical-align: middle;
-    color: white;
-    font-size: 14px;
-
 }
