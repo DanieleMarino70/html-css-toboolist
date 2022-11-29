@@ -35,3 +35,41 @@ body{
     vertical-align: top;
     
 }
+
+/* DIV CONTAINER */
+
+.container{
+    width: 1000px;
+    margin: 40px auto;
+    background-color: white;
+}
+
+.bar{
+    height: 60px;
+    border-bottom: 2px solid rgba(80, 80, 80, 0.1);
+}
+
+.add-task{
+    margin: 17px 0px 0px 60px;
+    display: inline-block;
+    background-color: #47ADF1;
+    height: 30px;
+    line-height: 30px;
+    width: 83px;
+    border-radius: 4px;
+    text-align: center;
+    color: white;
+}
+
+.add-section{
+    margin: 17px 0px 0px 5px;
+    display: inline-block;
+    background-color: white;
+    height: 30px;
+    line-height: 30px;
+    width: 120px;
+    border-radius: 4px;
+    text-align: center;
+    color: lightgrey;
+    border: 1px solid;
+}
